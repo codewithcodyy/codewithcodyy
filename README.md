@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cody</h1>
 <h3 align="center">A passionate full stack developer from Australia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwithcodyy" alt="codingwithcodyy" /></a> </p>
 
 - 🔭 I’m currently working on [Aura Development](https://auradevelopment.com.au)
 
