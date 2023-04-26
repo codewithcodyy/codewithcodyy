@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **cody@auradevelopment.com.au**
 
-- 💻 Available for hire **email me!**
+- 💻 Available for hire, **email me!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
